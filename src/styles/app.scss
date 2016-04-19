@@ -1,0 +1,18 @@
+.header {
+	margin: auto;
+	margin-bottom: 50px;
+	width: 123px;
+}
+
+.login-error {
+	display: block;
+	color: red;
+}
+
+.register-link {
+	float: right;
+	margin-top: 36px;
+}
+
+@import 'home.scss';
+@import 'register.scss';

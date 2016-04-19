@@ -1,0 +1,30 @@
+.register-form {
+	width: 50%;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin: auto;
+}
+
+.register-btn {
+	width: 150px;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.registered-message {
+	margin-top: 20px;
+	width: 254px;
+	margin: auto;
+	color: green;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	transition: width 2s, height 2s, transform 2s;
+	display: block;
+}
